@@ -1,1 +1,4 @@
 # Hang-Man
+This a basic hang-man game that runs on the command-line interface.
+Its a 1v1 or 1 vs many or vice-versa.
+Enjoy!!
